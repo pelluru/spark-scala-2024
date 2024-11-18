@@ -1,5 +1,5 @@
-[debug] Created transactional ClassFileManager with tempDir = /Users/prabhakarapelluru/data_science/spark-scala/TestSparkScala1/project/target/scala-2.12/sbt-1.0/classes.bak
+[debug] Created transactional ClassFileManager with tempDir = /Users/prabhakarapelluru/data_science/code/Datascience_spark-scala/TestSparkScala1/project/target/scala-2.12/sbt-1.0/classes.bak
 [debug] About to delete class files:
 [debug] We backup class files:
-[debug] Created transactional ClassFileManager with tempDir = /Users/prabhakarapelluru/data_science/spark-scala/TestSparkScala1/project/target/scala-2.12/sbt-1.0/classes.bak
-[debug] Removing the temporary directory used for backing up class files: /Users/prabhakarapelluru/data_science/spark-scala/TestSparkScala1/project/target/scala-2.12/sbt-1.0/classes.bak
+[debug] Created transactional ClassFileManager with tempDir = /Users/prabhakarapelluru/data_science/code/Datascience_spark-scala/TestSparkScala1/project/target/scala-2.12/sbt-1.0/classes.bak
+[debug] Removing the temporary directory used for backing up class files: /Users/prabhakarapelluru/data_science/code/Datascience_spark-scala/TestSparkScala1/project/target/scala-2.12/sbt-1.0/classes.bak

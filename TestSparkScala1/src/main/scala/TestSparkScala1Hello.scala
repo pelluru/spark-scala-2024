@@ -1,6 +1,6 @@
 import org.apache.spark.sql.SparkSession
 
-object TestSparkScala1 {
+object TestSparkScala1Hello {
   def main(args: Array[String]): Unit = {
     println("Hello world!")
 
